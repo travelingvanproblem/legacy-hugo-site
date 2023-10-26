@@ -6,6 +6,16 @@ contentDir = "content"
 enableEmoji = true
 defaultContentLanguage = 'en'
 
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 10
+  [languages.fi]
+    languageName = "Finnish"
+    languageCode = "fi-FI"
+    contentDir = "content/fi"
+    weight = 20
+
 [module]
   # uncomment line below for temporary local development of module,
   # when using a 'theme' as a git submodule or git cloned files
