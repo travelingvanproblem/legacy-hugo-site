@@ -30,7 +30,7 @@ Luckily this sticker is free and you can get it by visiting a vehicle inspection
 
 {{< alert context="success" text="You can also order this sticker already to your home address before entering to Germany for a small fee from [germanemissionssticker.com](https://www.germanemissionssticker.com/order/)" />}}
 
-## My car is not low emission
+## What if your car has too big emissions?
 If you have a car which is not eligible for the green sticker we recommend you to use **Waze[^1]** for navigation and it will warn you if your route goes through a low emission zone.
 
 Here's how it looked for us when driving in Cologne:

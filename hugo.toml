@@ -57,7 +57,7 @@ defaultContentLanguage = 'en'
         instagram = "travelingvanproblem"
 
     [params.docs] # Parameters for the /docs 'template'
-        title           = "Traveling Van Problem Manual"           # default html title for documentation pages/sections
+        title           = "Traveling Van Problem Guidebook"           # default html title for documentation pages/sections
 
         pathName        = "docs"                            # path name for documentation site | default "docs"
 
