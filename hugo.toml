@@ -161,9 +161,9 @@ defaultContentLanguage = 'en'
 
 [menu]
 [[menu.primary]]
-    name  = "Docs"
+    name  = "Guidebook"
     url = "docs/"
-    identifier = "docs"
+    identifier = "guidebook"
     weight = 10
 
 # [[menu.primary]]

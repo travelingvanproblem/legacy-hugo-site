@@ -22,7 +22,7 @@ hero:
   #   alt: "Lotus Docs Logo"
   #   height: 80px
 
-  title: "The missing manual for Vanlife"
+  title: "The missing guidebook for Vanlife"
   subtitle: Tips, tricks and best-practices about working and traveling in a camper van in Europe 🚚 🇪🇺
 
   image:
@@ -34,8 +34,8 @@ hero:
 
   ctaButton:
     icon: local_shipping
-    btnText: "Read The Fine Manual"
-    url: "/docs/"
+    btnText: "Read The Guidebook"
+    url: "docs/"
   #cta2Button:
   #  icon: construction
   #  btnText: "In Development"
