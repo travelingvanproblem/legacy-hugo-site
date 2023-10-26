@@ -6,22 +6,6 @@ contentDir = "content"
 enableEmoji = true
 defaultContentLanguage = 'en'
 
-[languages]
-  [languages.en]
-    title = "Lotus Docs Example Site"
-    languageName = "English"
-    weight = 10
-  [languages.fr]
-    title = "Lotus Docs Exemple de Site"
-    languageName = "Français"
-    contentDir = "content/fr"
-    weight = 20
-  [languages.de]
-    title = "Lotus Docs Beispiel Site"
-    languageName = "Deutsch"
-    contentDir = "content/de"
-    weight = 30
-
 [module]
   # uncomment line below for temporary local development of module,
   # when using a 'theme' as a git submodule or git cloned files
@@ -56,7 +40,7 @@ defaultContentLanguage = 'en'
   google_fonts = [
     ["Inter", "300, 400, 600, 700"],
     ["Fira Code", "500, 700"],
-    ["Caveat", "400","700"]
+    ["Caveat", "400", "700"]
   ]
 
   sans_serif_font = "Inter"     # Default is System font
@@ -69,7 +53,7 @@ defaultContentLanguage = 'en'
 
     [params.social]
         rss = true
-        github = "travelingvanproblem/site"
+        # github = "travelingvanproblem/site"
         instagram = "travelingvanproblem"
 
     [params.docs] # Parameters for the /docs 'template'
