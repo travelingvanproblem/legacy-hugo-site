@@ -5,6 +5,3 @@
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
-
-# Ignore the locally cloned main theme
-themes/*
