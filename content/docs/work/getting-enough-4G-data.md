@@ -36,7 +36,7 @@ I needed to enable data roaming in the settings and then we had blazing fast 200
 
 We used the SIM card for 3 weeks and then suddenly it stopped working. Luckily we had second mobile subscription still and were able to connect ConnectPls Support using WhatsApp. They then send us the replacement eSIM QR-code and it worked immediately.
 
-Their monthly fee is pretty high and the suddenly dying SIM card did not make us too happy so we started to look for different options
+Their monthly fee is pretty high and the suddenly dying SIM card did not make us too happy so we started to look for different options 👎.
 
 ### 4gsim.es
 
