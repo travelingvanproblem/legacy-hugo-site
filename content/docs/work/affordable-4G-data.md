@@ -1,11 +1,11 @@
 ---
-title: "Getting enough affordable 4G data"
+title: "Affordable 4G data"
 date: 2023-12-05T22:02:08+02:00
 draft: false
 author: "Onni Hakala"
 icon: "📶"
 toc: true
-description: "Guide on how to get affordable 4G data for video conferences and streaming"
+description: "Guide on how to get enough low-cost 4G data for remote work"
 ---
 ![Image of SIM cards](images/guidebook/sim-cards.jpg)
 ## Using 4G for the work
