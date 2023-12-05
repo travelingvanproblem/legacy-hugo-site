@@ -54,7 +54,6 @@ They provided exactly same service but just for less money and we were happy to 
 ❓ You need to pay for the delivery fee for the physical SIM cards so if 200gb is enough for you we recommend ordering the eSIM instead.
 {{% /alert %}}
 
-
 {{% alert icon="🔄" context="info" %}}
 #### Renewal links
 These cards don't renew automatically so you need to pause or renew them after your period is over.

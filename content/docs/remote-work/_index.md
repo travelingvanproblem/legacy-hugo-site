@@ -1,7 +1,7 @@
 ---
 weight: 1700
-title: "Working from Van"
-description: "Tips on how to make remote work better"
+title: "Working remotely"
+description: "Tips on how to make remote work better from Van"
 icon: "💻"
 lead: ""
 date: 2023-12-05T16:13:15+00:00
