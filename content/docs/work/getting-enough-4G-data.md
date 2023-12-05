@@ -1,11 +1,11 @@
 ---
-title: "Getting enough 4G data"
+title: "Getting enough affordable 4G data"
 date: 2023-12-05T22:02:08+02:00
 draft: false
 author: "Onni Hakala"
 icon: "📶"
 toc: true
-description: "Guide on how to get enough 4G data for video conferences and streaming"
+description: "Guide on how to get affordable 4G data for video conferences and streaming"
 ---
 ![Image of SIM cards](images/guidebook/sim-cards.jpg)
 ## Using 4G for the work
@@ -24,17 +24,17 @@ We started our Vanlife trip from the Nordics so we knew we had enough data to us
 
 The first company we tested was [ConnectPls](https://connectpls.com/).
 
-They have [eSIM](https://connectpls.com/e-sim/) and [physical SIM card options](https://connectpls.com/sim-card-only/) which both cost 59£ per month which at the time of writing this was ~69€. Physical SIM card contains 400gb of data and eSIM 200gb so both should be more than enough for us.
+They have [eSIM](https://connectpls.com/e-sim/) and [physical SIM card](https://connectpls.com/sim-card-only/) options which both cost 59£ per month which at the time of writing this was ~69€. Physical SIM card contains 400gb of data and eSIM 200gb so both should be more than enough for us.
 
 Nice thing about their service is that you can cancel anytime and they have automated the payments of your subscription and charge your credit card monthly.
 
-Since both options were similiarly priced we wanted to get the physical one. After ordering they contacted us through email and arranged delivery to a poste restante address in Germany using DHL Express.
+Both options were similiarly priced and eSIM cards can't be easily swapped between 2 phones so we decided to get the physical SIM card. After ordering they contacted us through email and arranged delivery to a local post office in Germany using DHL Express.
 
 ![DHL Express envelope and SIM card](images/guidebook/getting-connectpls-sim.jpeg "ConnectPls SIM card arriving in DHL Express envelope")
 
 I needed to enable data roaming in the settings and then we had blazing fast 200mbps download speeds 🚀.
 
-We used the SIM card for 3 weeks and then suddenly it stopped working. Luckily we had second mobile subscription still and were able to connect ConnectPls Support using WhatsApp. They then send us the replacement eSIM QR-code and it worked immediately.
+We used the SIM card for 3 weeks and then suddenly it stopped working. Luckily we had second mobile subscription still and were able to connect ConnectPls Support using WhatsApp. They then sent us a replacement eSIM as QR-code and it worked immediately.
 
 Their monthly fee is pretty high and the suddenly dying SIM card did not make us too happy so we started to look for different options 👎.
 
@@ -51,7 +51,7 @@ They provided exactly same service but just for less money and we were happy to 
 * [200gb EU data eSIM card for 50€ / 30 days](https://4gsim.es/product/esim-400gb-internet-spain-europe/?ref=Onni)
 * [300gb EU / USA / Switzerland / Turkey data SIM card for 65€ / 30 days](https://4gsim.es/product/esim-400gb-internet-spain-europe/?ref=Onni)
 
-You need to pay for the delivery fee for the physical SIM cards so if 200gb is enough for you we recommend ordering the eSIM instead.
+❓ You need to pay for the delivery fee for the physical SIM cards so if 200gb is enough for you we recommend ordering the eSIM instead.
 {{% /alert %}}
 
 
