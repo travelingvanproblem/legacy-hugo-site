@@ -30,7 +30,7 @@ Nice thing about their service is that you can cancel anytime and they have auto
 
 Since both options were similiarly priced we wanted to get the physical one. After ordering they contacted us through email and arranged delivery to a poste restante address in Germany using DHL Express.
 
-![DHL Express envelope and SIM card](images/guidebook/getting-connectpls-sim.jpeg "ConnectPls SIM card arriving through DHL Express envelope")
+![DHL Express envelope and SIM card](images/guidebook/getting-connectpls-sim.jpeg "ConnectPls SIM card arriving in DHL Express envelope")
 
 I needed to enable data roaming in the settings and then we had blazing fast 200mbps download speeds 🚀.
 
@@ -46,7 +46,7 @@ They provided exactly same service but just for less money and we were happy to 
 
 {{% alert icon="🛍" context="info" %}}
 #### Data deals
-4gsim.es is supporting Traveling Van Problem and if you buy using following links we will get small commission. **The price you pay remains the same, affiliate link or not.**
+4gsim.es is supporting Traveling Van Problem and if you buy using following links we will get a small commission. **The price you pay remains the same, affiliate link or not.**
 * [400gb EU data SIM card for 50€ per 30 days](https://4gsim.es/product/400gb-datasim-for-europe/?ref=Onni)
 * [200gb EU data eSIM card for 50€ / 30 days](https://4gsim.es/product/esim-400gb-internet-spain-europe/?ref=Onni)
 * [300gb EU / USA / Switzerland / Turkey data SIM card for 65€ / 30 days](https://4gsim.es/product/esim-400gb-internet-spain-europe/?ref=Onni)
