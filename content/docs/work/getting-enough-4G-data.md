@@ -44,7 +44,7 @@ We noticed that ConnectPls uses Movistar SIM cards which is a spanish company. W
 
 They provided exactly same service but just for less money and we were happy to start using them instead.
 
-{{% alert icon="🛍" context="info" %}}
+{{% alert icon="🛍" context="success" %}}
 #### Data deals
 4gsim.es is supporting Traveling Van Problem and if you buy using following links we will get a small commission. **The price you pay remains the same, affiliate link or not.**
 * [400gb EU data SIM card for 50€ per 30 days](https://4gsim.es/product/400gb-datasim-for-europe/?ref=Onni)
