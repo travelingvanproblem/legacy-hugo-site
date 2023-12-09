@@ -8,6 +8,11 @@ toc: true
 description: "Guide on how to get enough low-cost 4G data for remote work"
 ---
 ![Image of SIM cards](images/guidebook/sim-cards.jpg)
+
+{{% alert icon="🚩" context="primary" %}}
+**TL;DR: To get online fast we recommend buying [30 days / 200gb eSIM card for 50€](https://4gsim.es/product/400gb-datasim-for-europe/?ref=Onni).
+{{% /alert %}}
+
 ## Using 4G for the work
 Our van doesn't have fancy electric system to support Starlink so we decided to use our smart phones as hotspots for our work. Onni is working as software engineering team lead and Meri is providing finnish lessons remotely. We both needed low latency for video calls and since 4G is very widely available in Europe it was easy choice for us.
 
@@ -19,7 +24,7 @@ We are from Finland 🇫🇮 and we are used to having unlimited data with very 
 
 We started our Vanlife trip from the Nordics so we knew we had enough data to use Google meet for video conferencing and streaming shows from Netflix. **We noticed that we needed 70-90 gigabytes of mobile data per month.** Using this amount from our own phones would be really expensive after going from Denmark 🇩🇰 to Germany 🇩🇪.
 
-## Testing different providers
+## Different providers we have used
 ### ConnectPls
 
 The first company we tested was [ConnectPls](https://connectpls.com/).
@@ -40,7 +45,7 @@ Their monthly fee is pretty high and the suddenly dying SIM card did not make us
 
 ### 4gsim.es
 
-We noticed that ConnectPls uses Movistar SIM cards which is a spanish company. When we searched for alternatives providing 400gb Movistar cards we found [4gsim.es](https://4gsim.es/?ref=Onni).
+We noticed that ConnectPls uses Movistar SIM cards. When we searched for alternatives providing 400gb Movistar cards we found [4gsim.es](https://4gsim.es/?ref=Onni).
 
 They provided exactly same service but just for less money and we were happy to start using them instead.
 
@@ -56,7 +61,10 @@ They provided exactly same service but just for less money and we were happy to 
 
 {{% alert icon="🔄" context="info" %}}
 #### Renewal links
-These cards don't renew automatically so you need to pause or renew them after your period is over.
+After your 30 day period is over your card will be paused for 90 days. Paused cards can be activated with the renewal links below. If you don't renew your card during these 90 days the card will be deactivated forever.
+
+If you want to renew every month, you must pay for the renewal 2 days before the end of your period.
+
 * [Renew your 400gb SIM or 200gb eSIM](https://4gsim.es/product/extension-400gb-for-europe/?ref=Onni)
 * [Renew your 300gb EU / USA / Switzerland / Turkey data SIM card](https://4gsim.es/product/extension-300gb-for-europe-turkey-usa/?ref=Onni)
 {{% /alert %}}
