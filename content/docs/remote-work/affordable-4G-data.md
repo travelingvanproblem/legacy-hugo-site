@@ -10,7 +10,9 @@ description: "Guide on how to get enough low-cost 4G data for remote work"
 ![Image of SIM cards](images/guidebook/sim-cards.jpg)
 
 {{% alert icon="🚩" context="primary" %}}
-**TL;DR: To get online fast we recommend buying [30 days / 200gb eSIM card for 50€](https://4gsim.es/product/400gb-datasim-for-europe/?ref=Onni).
+**TL;DR:** If you're in a hurry we recommend buying [200gb (30 days) eSIM card for 50€](https://4gsim.es/product/esim-400gb-internet-spain-europe/?ref=Onni).
+
+Continue reading to learn why it's the best option.
 {{% /alert %}}
 
 ## Using 4G for the work
@@ -20,9 +22,9 @@ This means that before parking for the night we need to ensure that there's good
 
 ## Do you need unlimited data?
 
-We are from Finland 🇫🇮 and we are used to having unlimited data with very cheap prices. For example in 2023 we have been using mobile subscription from DNA for 26€ per month. This contains unlimited 4G data with full speed in Nordics + Baltics and plenty of phone calls and 32gb monthly data in other European countries.
+We are from Finland 🇫🇮 and we are used to having unlimited data with very cheap prices. For example in 2023 we have been using mobile subscription from DNA for 26€ per month. This contains unlimited 4G data with full speed in Nordics + Baltics and plenty of phone calls and 32gb monthly roaming data in other European countries.
 
-We started our Vanlife trip from the Nordics so we knew we had enough data to use Google meet for video conferencing and streaming shows from Netflix. **We noticed that we needed 70-90 gigabytes of mobile data per month.** Using this amount from our own phones would be really expensive after going from Denmark 🇩🇰 to Germany 🇩🇪.
+We started our Vanlife trip from the Nordics so we knew we had enough data to use Google meet for video conferencing and streaming shows from Netflix. **We noticed that we needed 70-90 gigabytes of mobile data per month.** Using this amount from our own phones would be really expensive after going from Denmark 🇩🇰 to Germany 🇩🇪 so we started to look for different options.
 
 ## Different providers we have used
 ### ConnectPls
@@ -70,5 +72,5 @@ If you want to renew every month, you must pay for the renewal 2 days before the
 {{% /alert %}}
 
 ### Other providers?
-We spend a lot of time on finding this information and we are sure this is pretty good deal. If you know even cheaper options please let us know 💪
+We spend a lot of time on finding this information and we are sure this is pretty good deal. If you know cheaper options please let us know 💪
 
