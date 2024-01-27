@@ -1,0 +1,21 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "git.branchProtection": [
+      "main"
+    ],
+    "git.branchProtectionPrompt": "alwaysCommitToNewBranch",
+    "editor.wordWrap": "on",
+    "files.eol": "\n",
+    "files.trimTrailingWhitespace": true,
+    "files.associations": {
+        "**/toc.json": "jsonc"
+    },
+    "markdown.validate.enabled": true,
+    "markdown.copyFiles.overwriteBehavior": "overwrite",
+    "markdown.copyFiles.destination": {
+        "**/*": "${documentWorkspaceFolder}/assets/images/${documentBaseName}/"
+    },
+    "editor.codeActionsOnSave": {
+        "source.organizeLinkDefinitions": true
+    }
+}
