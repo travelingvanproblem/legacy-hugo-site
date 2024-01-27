@@ -12,10 +12,11 @@
     },
     "markdown.validate.enabled": true,
     "markdown.copyFiles.overwriteBehavior": "overwrite",
+    "markdown.editor.drop.copyIntoWorkspace":"mediaFiles",
     "markdown.copyFiles.destination": {
         "**/*": "${documentWorkspaceFolder}/assets/images/${documentBaseName}/"
     },
     "editor.codeActionsOnSave": {
-        "source.organizeLinkDefinitions": true
+        "source.organizeLinkDefinitions": "explicit"
     }
 }
