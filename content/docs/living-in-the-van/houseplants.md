@@ -22,64 +22,87 @@ Living conditions in the van are quite special compared to a normal apartment.
 
 ## What houseplants do we have in our car?
 
-The best one - *Golden pothos (Epipremnum aureum)* 
+### The best one - *Golden Pothos (Epipremnum Aureum)* 
 
-![Golden pothos in the van on top of the small corner shelf](images/guidebook/plants/kultakoynnos.jpg "In our van *Golden pothos* is living on top of the small corner shelf.")
+![Golden Pothos in the van on top of a small corner shelf](images/guidebook/plants/kultakoynnos.jpg "In our van *Golden Pothos* is living on top of a small corner shelf.")
 
-This one is almost impossible to kill. 
+This one is almost impossible to kill. Be careful, because *Golden Pothos* is mildly poisonous to pets. The liquid from the plant might also irritate human skin. 
 
-Be careful, because *Golden pothos* is mildly poisonous to pets. The liquid from the plant might also irritate human skin. 
+{{% alert icon="🪴" context="success" %}}
+#### How to take care of
+🌤️ Partly cloudy (tip- more light gives more light stripes)
 
-#### How to take care of: 
+💧They don't need much watering. Allow the soil surface to dry completely between waterings
 
-- partly cloudy (tip- more light gives more light stripes). Give mold surface to dry fully between watering times.
-- brown spots- not enough water
-- yellow leaves-too much water
+Brown spots- not enough water
 
-*Snake plant (Sansevieria trifasciata)* 
+Yellow leaves-too much water
+{{% /alert %}}
 
-![Snakeplant hanging in makramee hanger](images/guidebook/plants/anopinkieli.jpg "Our *snake plant* in the makramee hanger.")
+
+### *Snake Plant (Sansevieria Trifasciata)* 
+
+![Snake Plant hanging in makramee hanger](images/guidebook/plants/anopinkieli.jpg "Our *Snake Plant* in the makramee hanger.")
 
 This one barely ever gets any pests. It also needs very little light and water but it does not like cold. 
 
-#### How to take care of:
+{{% alert icon="🪴" context="success" %}}
+#### How to take care of
+🌤️🌞 It thrives in direct sunlight or shade
 
-It is okay with direct sunlight or shade. The only way to kill it is to over-water it.
+💧They don't need much watering. 
 
-*Money tree (Crassula ovata)*
+The only way to kill it is to overwater it.
+{{% /alert %}}
 
-This can survive in cold temperatures for short times if the mold is dry. 
-They are a bit more fragile if you think about constantly shaking van.
+### *Money Tree (Crassula Ovata)*
 
-#### How to take care of:
+![Money Tree before we moved to a van](images/guidebook/plants/rahapuu.jpg "Our *Money Tree* before we moved to a van.")
 
-It is okay with shade but likes more sunny place. They don’t need much watering, dry room air is the best for them.
+![Money Tree after three months in a van](images/guidebook/plants/rahapuuautossa.jpg "Our *Money Tree* after three months in a van.")
+
+This can survive cold temperatures for short periods if the soil is dry.
+They are a bit more fragile if you think about the constant movement of the van.
+
+{{% alert icon="🪴" context="success" %}}
+#### How to take care of
+⛅️🌞 It is okay with shade but likes a more sunny place
+
+💧They don't need much watering
+
+Dry room air is the best for them
+{{% /alert %}}
 
 ## What houseplants we would try as well for Vanlife?
 
-*Spider plant (Chlorophytum)* is a really easy plant that also makes flowers sometimes. It enjoys direct sunlight but prefers partly cloudy. The only minus is that *Spider plant* might grow too fast and too big for the van.
+*Spider Plant (Chlorophytum)* is a really easy plant that also makes flowers sometimes. It enjoys direct sunlight but prefers partly cloudy. The only minus is that *Spider Plant* might grow too fast and too big for the van.
 
-*Eternity plant (Zamioculcas zamiifolia)* These you can keep alive even in bathrooms. The only minus is that they are usually too big for vans.
+*Eternity Plant (Zamioculcas Zamiifolia)* you can keep alive even in bathrooms. The only minus is that they are usually too big for vans.
 
-*Air plants* You can move them around more than most of the plants. They dont need any mold. They are so called independent because of they do not reguire much care.
+*Air Plants* adapt to new places better than most plants. They don't need soil. They are so-called independent because they do not require much care.
 
-*Aloe vera* It does not need much water and you can heal mosquito bites with it.
+*Aloe Vera* does not need much water and is easy to take care of.
 
 ![Some new habitats in our van](images/guidebook/plants/uudetkasvit.jpg "Some new habitats in our van.")
 
 ## Tips for taking care of the plants in a van
 - Don’t move the plant inside the van too often. Try to find a stable place for the plant so that it stays in the same chosen spot all the time. Choose a place where the plant is not on your way during your daily routines.
+
 - Don’t put houseplants too close to the window. Yes, they need natural light but if you are traveling when it is colder they will freeze when living next to a window.
-- Don’t water the plants too often and water only with luke warm water.
+
+- Don’t water the plants too often and water only with lukewarm water.
+
 - Spray plants sometimes with water because the air might be dry inside the van. 
 
 ## Where to put them in the van?
-**Shelf** Plants wont be on your way but you have to drill holes to the wall.
-**Magnets** Attach them to the countertop with strong magnets. Make sure that you have strong enough magnets since pot full of mold is quite heavy and you want it to stay on its place while driving.
-**Macrame hanger** The plant will probably get a bit more damaged when swinging while driving.
+**Shelf** Plants won't be on your way but you have to drill holes to the wall.
 
-## Recommended items that you need with plants
-Our ultimate favourites are *Elho* products. They are pretty, affordable and light. They are made from recycled plastic so they wont leak and you cant easily break them. We also use *Elho* spray bottle for taking care of the plants. 
+**Magnets** Attach the houseplant to the countertop with strong magnets. Make sure that you have strong enough magnets since a pot full of soil is quite heavy and you want it to stay in its place while driving.
+
+**Macrame hanger**  The plant will probably get a bit more damaged when swinging while driving.
+
+## Recommended items that you might need with plants
+Our ultimate favourites are *Elho* products. They are pretty, affordable, and light. They are made from plastic so they won't leak and you can't easily break them. In most of the pots, the plastic is recycled. We also use *Elho* spray bottle for taking care of the plants. 
 
 
 
