@@ -1,11 +1,12 @@
 ---
-title: "Easy houseplants for vanlife"
-date: 2023-12-16T22:02:08+02:00
+title: Easy houseplants for vanlife
+date: 2023-12-16 20:02:08 Z
 draft: false
-author: "Meri Jyrävä"
-icon: "🪴"
+author: Meri Jyrävä
+icon: "\U0001FAB4"
 toc: true
-description: "Can I have houseplants in my van while traveling in Europe? And how can I keep them alive?"
+description: Can I have houseplants in my van while traveling in Europe? And how can
+  I keep them alive?
 ---
 
 The answer to our question is yes. You can have houseplants in your van quite easily. You just need to find a good spot for them and to know how to take care of them. We used to have over 50 houseplants in our apartment but nowadays we only have six of them in our van. In the future hopefully more!

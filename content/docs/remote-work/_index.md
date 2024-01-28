@@ -1,9 +1,10 @@
 ---
+title: Working remotely
 weight: 1700
-title: "Working remotely"
-description: "Tips on how to make remote work better from Van"
-icon: "💻"
-lead: ""
+description: Tips on how to make remote work better from Van
+icon: "\U0001F4BB"
+lead: ''
 draft: false
 images: []
 ---
+

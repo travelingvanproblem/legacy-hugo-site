@@ -1,11 +1,11 @@
 ---
-title: "German Low Emission Sticker"
-date: 2023-10-22T22:36:08+02:00
+title: German Low Emission Sticker
+date: 2023-10-22 20:36:08 Z
 draft: false
-author: "Onni Hakala"
-icon: "🇩🇪"
+author: Onni Hakala
+icon: "\U0001F1E9\U0001F1EA"
 toc: true
-description: "This sticker is mandatory in most urban areas in Germany"
+description: This sticker is mandatory in most urban areas in Germany
 ---
 
 ![German green emission sticker](https://www.germanemissionssticker.com/img/sites/16/germanemissionssticker.jpg "Example German green emission sticker for EURO 4 emission standard")

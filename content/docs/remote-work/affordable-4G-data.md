@@ -1,12 +1,13 @@
 ---
-title: "Affordable 4G data"
-date: 2023-12-05T22:02:08+02:00
+title: Affordable 4G data
+date: 2023-12-05 20:02:08 Z
 draft: false
-author: "Onni Hakala"
-icon: "📶"
+author: Onni Hakala
+icon: "\U0001F4F6"
 toc: true
-description: "Guide on how to get enough low-cost 4G data for remote work"
+description: Guide on how to get enough low-cost 4G data for remote work
 ---
+
 ![Image of SIM cards](images/guidebook/sim-cards.jpg)
 
 {{% alert icon="🚩" context="primary" %}}
