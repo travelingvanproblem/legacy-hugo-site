@@ -1,5 +1,5 @@
 ---
-title: "🚽 toilet stuff"
+title: "Toilet stuff"
 date: 2023-12-16T22:02:08+02:00
 draft: false
 author: "Meri Jyrävä"
@@ -26,9 +26,13 @@ After driving around Rome with a rental van trying to find a place to empty the 
 
 {{% alert icon="🚽" context="light" %}}
 ##### Our choice was Trelino Evo S -composting toilet
+
 🪶 3.9 kg
+
 ▪️ 33.0 x 39.0 x 29.6 cm
+
 💦 4.5 l urine canister (9-11 visists)
+
 💩 6.5 l solids container (6-8 visits)
 {{% /alert %}}
 
